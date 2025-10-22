@@ -5,10 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dowhy>=0.13",
     "graphviz>=0.21",
     "ipython>=9.6.0",
     "jupyter>=1.1.1",
     "pgmpy>=1.0.0",
+    "plotly>=6.3.1",
     "polars>=1.33.1",
     "pyarrow>=21.0.0",
     "pyro-ppl>=1.9.1",
