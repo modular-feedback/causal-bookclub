@@ -16,4 +16,5 @@ dependencies = [
     "pyarrow>=21.0.0",
     "pyro-ppl>=1.9.1",
     "torch>=2.8.0",
+    "torchvision>=0.24.1",
 ]
